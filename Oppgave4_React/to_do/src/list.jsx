@@ -4,7 +4,7 @@ import list from  './list.jsx'
 const hobbies = [
     { title: "Utvikling", isFavorite: true, upVote: 0, id: 1},
     { title: "Gaming", isFavorite: false, upvote: 0, id: 2},
-    { title: "Dasse", isFavorite: true, upVote: 0, id: 3},
+    { title: "Dase", isFavorite: true, upVote: 0, id: 3},
     { title: "Sove", isFavorite: false, upvote: 0, id: 4},
 ]
 
